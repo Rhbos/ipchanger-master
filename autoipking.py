@@ -48,16 +48,13 @@ def change():
     print ('[+] Your IP has been Changed to : '+str(ma_ip()))
 
 print('''\033[1;32;40m \n
-                _          _______
-     /\        | |        |__   __|
-    /  \  _   _| |_ ___      | | ___  _ __
-   / /\ \| | | | __/ _ \     | |/ _ \| '__|
-  / ____ \ |_| | || (_) |    | | (_) | |
- /_/    \_\__,_|\__\___/     |_|\___/|_|
-                V 2.1
-from mrFD
+  ˜”*°•.˜”*°• cyber •°*”˜.•°*”˜
+ ˜”*°•.˜”*°•   king •°*”˜.•°*”˜
+  ˜”*°•.˜”*°•squad •°*”˜.•°*”˜
+                V 3.1
+from cyber-king_squad
 ''')
-print("\033[1;40;31m http://facebook.com/ninja.hackerz.kurdish/\n")
+print("\033[1;40;31m https://m.facebook.com/cyberkingsquad")
 
 os.system("service tor start")
 
@@ -77,7 +74,7 @@ if int(lin) ==int(0):
 			change()
 		except KeyboardInterrupt:
 
-		 	print('\nauto tor is closed ')
+		 	print('\ip_changer is closed ')
 		 	quit()
 
 else:
